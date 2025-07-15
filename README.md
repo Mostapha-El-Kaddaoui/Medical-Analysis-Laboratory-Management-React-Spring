@@ -94,11 +94,12 @@ This application helps a **Laboratoire d'Analyse Médicale** (Medical Analysis L
 ### Check Results
 <img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/b8063446-c398-4c0b-9bc9-61d49de3cfa2" />
 
+<img width="1366" height="1250" alt="image" src="https://github.com/user-attachments/assets/d0e5ca39-1db4-421c-ad4f-5153c36470ab" />
+
 ### Admin Dashboard
 <img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/7193aae7-3afe-41b2-b903-fe47913e7c67" />
 <img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/7e98b9ad-937e-4c25-a1dc-b02a4d2690b7" />
 <img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/d49766f8-e6de-4092-aa48-dad41b500de7" />
-<img width="1366" height="1250" alt="image" src="https://github.com/user-attachments/assets/d0e5ca39-1db4-421c-ad4f-5153c36470ab" />
 
 
 ---
