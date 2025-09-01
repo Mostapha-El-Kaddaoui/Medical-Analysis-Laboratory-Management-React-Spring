@@ -117,18 +117,4 @@ This application helps a **Laboratoire d'Analyse Médicale** (Medical Analysis L
 
 ---
 
-## Contributing
-
-- Fork the repository  
-- Make your changes  
-- Submit a pull request for review  
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-*Created by Mostapha El Kaddaoui*
+Copyright © 2025, All Rights Reserved For ELKADDI-Solutions
